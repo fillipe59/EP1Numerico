@@ -1,11 +1,11 @@
 # EP1Numerico
  ## Exercício Programa 1 da disciplina Métodos Numéricos e Aplicações ministrada na Escola politécnica da Universidade de São Paulo
 
-## O projeto tem como o objetivo o desenvolvimento de métodos numéricos capazes de encontrar autovalores e autovetores. Fazê-lo de maneira rápida e precisa é fundamental e, portanto, nesse programa, será detalhada a implementação do algoritmo QR com deslocamento espectral para a determinação de autovalores e autovetores de matrizes tridiagonais simétricas.
+#### O projeto tem como o objetivo o desenvolvimento de métodos numéricos capazes de encontrar autovalores e autovetores. Fazê-lo de maneira rápida e precisa é fundamental e, portanto, nesse programa, será detalhada a implementação do algoritmo QR com deslocamento espectral para a determinação de autovalores e autovetores de matrizes tridiagonais simétricas.
 
 # Instruções para a execução do programa: 
 
-> # Necessário executar o programa em uma IDE do Python 3.8
+> Necessário executar o programa em uma IDE do Python 3.8
 
 > Para definir qual item deseja-se testar, é necessário informar ao programa logo na primeira resposta. As possíveis respostas que o fazem funcionar são ‘a’, ‘b’ e ‘c’. Caso não seja uma escolhida uma dessas 3 opções, o programa não será executado corretamente.
 
